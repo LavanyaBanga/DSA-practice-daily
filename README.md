@@ -23,6 +23,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,4 +32,12 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

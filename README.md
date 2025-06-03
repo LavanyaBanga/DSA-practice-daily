@@ -29,6 +29,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
+| [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
@@ -44,12 +45,14 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+| [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
+| [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |

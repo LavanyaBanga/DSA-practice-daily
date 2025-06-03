@@ -24,6 +24,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
@@ -33,6 +34,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
 | ------- |

@@ -22,6 +22,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -39,6 +40,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting

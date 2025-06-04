@@ -1,24 +1,20 @@
-import java.util.Arrays;
+
 
 class Solution {
-    public int[][] merge(int[][] intervals) {
-        if (intervals.length <= 1) return intervals;
-
+   public int[][] merge(int[][] intervals) {
         Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
-
-        int[][] result = new int[intervals.length][2];
-        int index = -1;
-
-        for (int[] curr : intervals) {
-            if (index == -1 || result[index][1] < curr[0]) {
+        List<int[]> ret = new ArrayList<>();
+        int[] prev = null;
+        for (int[] inter : intervals) {
+          
+            if (prev==null || inter[0] > prev[1]) {
+                ret.add(inter);
+                prev = inter;
+            } else if (inter[1] > prev[1]) {
             
-                result[++index] = curr;
-            } else {
-            
-                result[index][1] = Math.max(result[index][1], curr[1]);
+                prev[1] = inter[1];
             }
         }
-
-        return Arrays.copyOf(result, index + 1);
+        return ret.toArray(new int[ret.size()][2]);
     }
 }

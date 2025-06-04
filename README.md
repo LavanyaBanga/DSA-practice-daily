@@ -22,6 +22,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
@@ -47,6 +48,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
@@ -56,6 +58,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |

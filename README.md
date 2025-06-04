@@ -25,6 +25,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
@@ -60,6 +61,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |

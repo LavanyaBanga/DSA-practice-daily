@@ -25,6 +25,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
@@ -95,4 +96,5 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

@@ -14,11 +14,10 @@ class Solution {
     }
     public int calculate(int piles[],int h)
     {
-        int hrs=0;
-        for(int x=0;x<piles.length;x++)
-        {
-            hrs+=Math.ceil((double)piles[x]/(double)h);
-        }
+    int hrs=0;
+    for(int x=0;x<piles.length;x++){
+        hrs+=Math.ceil((double)piles[x]/(double)(h));
+    }
         return hrs;
     }
 }

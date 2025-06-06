@@ -3,18 +3,30 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                int curr = mat[i][j];
+        int left = 0, right = n - 1;
 
-                int top = (i > 0) ? mat[i - 1][j] : -1;
-                int bottom = (i < m - 1) ? mat[i + 1][j] : -1;
-                int left = (j > 0) ? mat[i][j - 1] : -1;
-                int right = (j < n - 1) ? mat[i][j + 1] : -1;
+        while (left <= right) {
+            int midCol = left + (right - left) / 2;
 
-                if (curr > top && curr > bottom && curr > left && curr > right) {
-                    return new int[]{i, j};
+          
+            int maxRow = 0;
+            for (int i = 0; i < m; i++) {
+                if (mat[i][midCol] > mat[maxRow][midCol]) {
+                    maxRow = i;
                 }
+            }
+
+            
+            int leftVal = (midCol - 1 >= 0) ? mat[maxRow][midCol - 1] : -1;
+            int rightVal = (midCol + 1 < n) ? mat[maxRow][midCol + 1] : -1;
+
+         
+            if (mat[maxRow][midCol] > leftVal && mat[maxRow][midCol] > rightVal) {
+                return new int[]{maxRow, midCol};
+            } else if (leftVal > mat[maxRow][midCol]) {
+                right = midCol - 1;
+            } else {
+                left = midCol + 1;
             }
         }
 

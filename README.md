@@ -112,4 +112,16 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0907-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0907-koko-eating-bananas) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

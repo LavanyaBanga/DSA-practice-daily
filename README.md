@@ -116,6 +116,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
 ## Bit Manipulation
 |  |
 | ------- |

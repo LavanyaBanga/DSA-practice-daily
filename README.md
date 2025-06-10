@@ -99,6 +99,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
@@ -124,6 +125,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
@@ -133,6 +135,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
@@ -149,6 +152,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0014-longest-common-prefix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |

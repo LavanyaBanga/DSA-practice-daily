@@ -1,27 +1,29 @@
 class Solution {
-  public int compress(char[] chars) {
-    int ans = 0; 
-   for (int i = 0; i < chars.length;) {
-      final char letter = chars[i]; 
-      int count = 0;
+    public int compress(char[] chars) {
+        int write = 0;  
+        int read = 0;  
 
-   
-      while (i < chars.length && chars[i] == letter) {
-        ++count;
-        ++i;
-      }
+        while (read < chars.length) {
+            char currentChar = chars[read];
+            int count = 0;
 
-      chars[ans++] = letter;
+           
+            while (read < chars.length && chars[read] == currentChar) {
+                read++;
+                count++;
+            }
 
-      if (count > 1) {
-       
-        for (final char c : String.valueOf(count).toCharArray()) {
-          chars[ans++] = c;
+           
+            chars[write++] = currentChar;
+
+        
+            if (count > 1) {
+                for (char c : String.valueOf(count).toCharArray()) {
+                    chars[write++] = c;
+                }
+            }
         }
-      }
-    }
 
-    
-    return ans;
-  }
+        return write; 
+    }
 }

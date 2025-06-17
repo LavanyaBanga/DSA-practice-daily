@@ -137,6 +137,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
@@ -160,6 +161,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
@@ -204,6 +206,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |

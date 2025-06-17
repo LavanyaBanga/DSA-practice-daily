@@ -6,7 +6,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## 🔗 My Profiles:
 
 - 🌟 [LeetCode](https://leetcode.com/LavanyaBanga/)
-- 👩‍💻 [CodeChef](https://www.codechef.com/lavanyabanga)
+- 👩‍💻 [CodeChef](https://www.codechef.com/users/lavanyabanga)
 - 📚 [GeeksForGeeks](https://auth.geeksforgeeks.org/lavanyabwkd0/)
 
 ## 📂 Folder Structure:

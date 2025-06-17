@@ -176,6 +176,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
@@ -222,6 +223,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |

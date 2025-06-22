@@ -206,6 +206,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 ## Greedy
 |  |
@@ -232,4 +233,16 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0237-delete-node-in-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->

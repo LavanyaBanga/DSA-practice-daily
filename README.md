@@ -152,6 +152,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
+| [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
@@ -182,6 +183,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
+| [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
@@ -197,6 +199,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
@@ -210,6 +213,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |

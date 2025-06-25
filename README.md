@@ -160,6 +160,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
@@ -268,4 +269,12 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

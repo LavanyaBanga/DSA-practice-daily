@@ -8,7 +8,7 @@ This repository contains all my DSA problem solutions from different platforms:
 
 - 👩‍💻 [CodeChef](https://www.codechef.com/users/lavanyabanga)
 - 📚 [GeeksForGeeks](https://auth.geeksforgeeks.org/lavanyabwkd0/)
-
+-[Leetcode]_(https://leetcode.com/u/LavanyaBanga/)
 
 ## 📂 Folder Structure:
 

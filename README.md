@@ -129,6 +129,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -219,6 +220,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -230,6 +232,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |

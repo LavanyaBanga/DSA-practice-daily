@@ -231,6 +231,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
@@ -268,6 +269,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |

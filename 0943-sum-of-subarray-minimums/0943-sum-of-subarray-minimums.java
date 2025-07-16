@@ -1,8 +1,9 @@
 class Solution {
     
     public int sumSubarrayMins(int[] arr) {
-        int n = arr.length;
-        int MOD = (int)1e9 + 7;
+        int n=arr.length;
+      int MOD = (int)1e9 + 7;
+
 
         int[] NSL = getNSL(arr, n);  
         int[] NSR = getNSR(arr, n);  

@@ -1,35 +1,43 @@
+import java.util.*;
+
 class Solution {
     public int calculate(String s) {
+        int n = s.length();
+        int number = 0;
+        int result = 0;
+        int sign = 1; // 1 for positive, -1 for negative
         Stack<Integer> stack = new Stack<>();
-        int number = 0, sign = 1, result = 0;
 
-        for (char c : s.toCharArray()) {
+        for (int i = 0; i < n; i++) {
+            char c = s.charAt(i);
+
             if (Character.isDigit(c)) {
-                number = number * 10 + (c - '0');
+                number = number * 10 + (c - '0'); // build the number
             } else if (c == '+') {
-                result += sign * number;
+                result += number * sign;
                 number = 0;
-                sign = 1;
+                sign = 1; // next number is positive
             } else if (c == '-') {
-                result += sign * number;
+                result += number * sign;
                 number = 0;
-                sign = -1;
+                sign = -1; // next number is negative
             } else if (c == '(') {
+                // Push current result and sign for later
                 stack.push(result);
                 stack.push(sign);
-                sign = 1;
+                // Reset for inner expression
                 result = 0;
+                sign = 1;
             } else if (c == ')') {
-                result += sign * number;
+                result += number * sign;
                 number = 0;
-                result *= stack.pop(); 
-                result += stack.pop(); 
+                int prevSign = stack.pop();
+                int prevResult = stack.pop();
+                result = prevResult + prevSign * result;
             }
         }
-
-        if (number != 0) {
-            result += sign * number;
-        }
+        // Add last number
+        result += number * sign;
 
         return result;
     }

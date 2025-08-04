@@ -2,7 +2,7 @@ class Solution {
     public int[] searchRange(int[] nums, int target) {
         int first = firstOccurence(nums, target);
         int last = lastOccurence(nums, target);
-        return new int[]{first, last}; // Correct return
+        return new int[]{first, last}; 
     }
 
     public static int firstOccurence(int[] nums, int target) {

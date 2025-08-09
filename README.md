@@ -68,6 +68,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
+| [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0504-base-7](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
+| [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -206,6 +208,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -311,4 +314,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->

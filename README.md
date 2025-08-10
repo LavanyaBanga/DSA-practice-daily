@@ -190,6 +190,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -212,6 +213,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |

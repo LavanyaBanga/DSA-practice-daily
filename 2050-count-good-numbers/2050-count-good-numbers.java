@@ -1,23 +1,26 @@
 class Solution {
-    static final long MOD = 1000000007;
+    static final long MOD = 1000000007L;
 
     public int countGoodNumbers(long n) {
-      
-      long evenCount=(n+1)/2;
-      long oddCount=n/2;
-      long part1=power(5,evenCount);
-      long part2=power(4,oddCount);
-      return (int)((part1*part2)%MOD);
+        long evenCount = (n + 1) / 2; // ceil
+        long oddCount  = n / 2;       // floor
+
+        long part1 = power(5, evenCount); // 5^(even positions)
+        long part2 = power(4, oddCount);  // 4^(odd positions)
+
+        return (int) ((part1 * part2) % MOD);
     }
 
-   
-    public long power(long base, long exp) {
-       if(exp==0)return 1;
-       long half=power(base,exp/2);
-       long result=(half*half)%MOD;
-       if(exp%2==1){
-        result=(result)*(base)%MOD;
-       }
-       return result;
+    private long power(long base, long exp) {
+        if (exp == 0) return 1;
+        base %= MOD; // keep base small
+
+        long half = power(base, exp / 2);
+        long result = (half * half) % MOD;
+
+        if ((exp & 1) == 1) {
+            result = (result * base) % MOD;
+        }
+        return result;
     }
 }

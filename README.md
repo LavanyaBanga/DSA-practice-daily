@@ -49,6 +49,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |

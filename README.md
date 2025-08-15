@@ -27,6 +27,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
@@ -196,6 +197,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
@@ -322,6 +324,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |

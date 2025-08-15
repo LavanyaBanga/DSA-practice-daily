@@ -1,6 +1,7 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
+        // List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>>ans=new ArrayList<>();
         // arraylist to store final result
         findSubsets(0, nums, new ArrayList<>(), ans);
         // 0 ---> jis index s start hoga 

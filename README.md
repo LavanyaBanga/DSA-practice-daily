@@ -25,6 +25,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
@@ -330,6 +331,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 ## Memoization
 |  |

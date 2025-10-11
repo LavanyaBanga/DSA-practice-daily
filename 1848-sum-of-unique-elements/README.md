@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-unique-elements">1848. Sum of Unique Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>. The unique elements of an array are the elements that appear <strong>exactly once</strong> in the array.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-unique-elements/">1848. Sum of Unique Elements</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>. The unique elements of an array are the elements that appear <strong>exactly once</strong> in the array.</p>
 
 <p>Return <em>the <strong>sum</strong> of all the unique elements of </em><code>nums</code>.</p>
 

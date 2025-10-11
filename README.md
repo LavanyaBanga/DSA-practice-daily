@@ -17,6 +17,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
@@ -116,6 +117,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |

@@ -34,6 +34,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
@@ -77,6 +78,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
@@ -168,6 +170,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -274,6 +277,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
@@ -321,6 +325,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |

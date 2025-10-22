@@ -365,6 +365,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -373,5 +374,10 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Binary Tree
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

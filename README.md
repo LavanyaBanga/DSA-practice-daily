@@ -79,6 +79,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
@@ -262,6 +263,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0058-length-of-last-word) |
@@ -371,6 +373,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0040-combination-sum-ii) |

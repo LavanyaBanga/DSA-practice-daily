@@ -229,6 +229,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
+| [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -320,6 +321,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
+| [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |

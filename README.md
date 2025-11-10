@@ -207,6 +207,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
@@ -249,6 +250,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |

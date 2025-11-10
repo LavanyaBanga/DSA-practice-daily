@@ -57,6 +57,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
+| [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
@@ -109,6 +110,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -126,6 +128,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
+| [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -312,6 +315,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
+| [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |

@@ -71,6 +71,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -137,6 +138,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +329,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
+| [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 ## Trie
 |  |
 | ------- |

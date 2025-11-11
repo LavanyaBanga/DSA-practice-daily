@@ -237,6 +237,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1448-maximum-69-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1448-maximum-69-number) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1965-sum-of-digits-in-base-k) |
@@ -327,6 +328,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
+| [1448-maximum-69-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1448-maximum-69-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |

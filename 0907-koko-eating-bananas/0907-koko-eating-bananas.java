@@ -1,9 +1,8 @@
 class Solution {
     public int calculate(int[] piles, int mid) {
-        int hrs = 0;
-
-        for (int x : piles) {
-            hrs += (x + mid - 1) / mid;
+      int hrs=0;
+      for(int t:piles){
+       hrs += (t + mid - 1) / mid;//works like ceil,ceil takes higher memory // ceil(double(piles)/mid)
         }
 
         return hrs;

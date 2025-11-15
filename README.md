@@ -237,6 +237,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
@@ -399,6 +400,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |

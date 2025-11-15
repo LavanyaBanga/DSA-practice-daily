@@ -1,28 +1,30 @@
-import java.util.Arrays;
-
 class Solution {
-    public int minEatingSpeed(int[] piles, int h) {
-        int n = piles.length;
-        int left = 1;
-        int right = Arrays.stream(piles).max().getAsInt();
+    public int calculate(int[] piles, int mid) {
+        int hrs = 0;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            int time = calculate(piles, mid);
-            if (time <= h) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
+        for (int x : piles) {
+            hrs += (x + mid - 1) / mid;
         }
-        return left;
+
+        return hrs;
     }
 
-    public int calculate(int piles[], int h) {
-        int hrs = 0;
-        for (int x = 0; x < piles.length; x++) {
-            hrs += Math.ceil((double) piles[x] / (double) h);
+    public int minEatingSpeed(int[] piles, int h) {
+
+        int left = 1;
+        int right = Arrays.stream(piles).max().getAsInt(); 
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+
+            int time = calculate(piles, mid);
+
+            if (time <= h) {
+                right = mid;      
+            } else {
+                left = mid + 1;   
+            }
         }
-        return hrs;
+
+        return left;
     }
 }

@@ -74,6 +74,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
@@ -220,6 +221,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
+| [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
 ## Math
 |  |
 | ------- |

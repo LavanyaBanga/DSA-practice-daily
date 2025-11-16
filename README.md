@@ -149,6 +149,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
@@ -291,6 +292,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -410,6 +412,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 ## Backtracking
 |  |

@@ -163,6 +163,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
@@ -177,6 +178,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -313,6 +315,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |

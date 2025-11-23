@@ -261,6 +261,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1448-maximum-69-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1448-maximum-69-number) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -323,6 +324,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |

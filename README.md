@@ -174,6 +174,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -335,6 +336,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1513-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |

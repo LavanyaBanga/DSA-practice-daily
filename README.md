@@ -41,6 +41,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
@@ -89,6 +90,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -163,6 +165,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
@@ -458,6 +461,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
@@ -469,6 +473,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |

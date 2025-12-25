@@ -459,6 +459,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -469,12 +470,14 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 ## Interactive
@@ -485,6 +488,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 ## Combinatorics
 |  |

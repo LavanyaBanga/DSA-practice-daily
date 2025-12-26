@@ -232,6 +232,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -290,6 +291,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
@@ -465,6 +467,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -478,6 +481,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search

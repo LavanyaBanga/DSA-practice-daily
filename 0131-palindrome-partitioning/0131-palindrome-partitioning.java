@@ -6,13 +6,13 @@ class Solution {
     }
 
     private void backtrack(String s, int idx, List<String> path, List<List<String>> res) {
-        // ✅ Base case: poori string use ho gayi
+        //  Base case: poori string use ho gayi
         if (idx == s.length()) {
             res.add(new ArrayList<>(path));
             return;
         }
 
-        // ✅ Try all partitions starting from idx
+        //  Try all partitions starting from idx
         for (int i = idx; i < s.length(); i++) {
             // s[idx...i]
             if (isPalindrome(s, idx, i)) {

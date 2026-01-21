@@ -40,6 +40,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
@@ -123,6 +124,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
@@ -145,6 +147,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |

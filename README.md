@@ -37,6 +37,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
@@ -221,6 +222,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0064-minimum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
@@ -336,6 +338,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0058-length-of-last-word](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
@@ -466,6 +469,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0040-combination-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 ## Memoization
@@ -501,6 +505,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |

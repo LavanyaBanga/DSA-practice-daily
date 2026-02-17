@@ -266,6 +266,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
+| [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
@@ -442,6 +443,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 ## Brainteaser
 |  |

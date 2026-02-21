@@ -484,6 +484,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0102-binary-tree-level-order-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
@@ -499,6 +500,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0102-binary-tree-level-order-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
@@ -509,6 +511,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
@@ -523,6 +526,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 ## Combinatorics

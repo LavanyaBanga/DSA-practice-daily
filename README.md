@@ -108,6 +108,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
@@ -485,6 +486,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
@@ -502,6 +504,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
@@ -514,6 +517,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |

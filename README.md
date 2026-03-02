@@ -490,12 +490,14 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -508,6 +510,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
+| [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |

@@ -248,6 +248,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0374-guess-number-higher-or-lower](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0792-binary-search) |
+| [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
 | [0907-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -283,6 +284,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0780-reaching-points](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0780-reaching-points) |
+| [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |

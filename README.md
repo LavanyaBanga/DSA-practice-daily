@@ -216,6 +216,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
+| [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -301,6 +302,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
+| [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

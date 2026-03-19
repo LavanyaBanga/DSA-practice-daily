@@ -30,6 +30,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0064-minimum-path-sum) |
@@ -207,6 +208,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
@@ -221,6 +223,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |

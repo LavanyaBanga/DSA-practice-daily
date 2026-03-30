@@ -74,6 +74,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -121,6 +122,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
@@ -238,6 +240,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |

@@ -97,6 +97,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Divide and Conquer
 |  |
@@ -257,6 +258,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
 | ------- |
@@ -500,6 +502,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Backtracking
 |  |
 | ------- |

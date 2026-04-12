@@ -97,12 +97,14 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Dynamic Programming
 |  |
 | ------- |

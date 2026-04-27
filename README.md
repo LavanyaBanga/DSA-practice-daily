@@ -149,6 +149,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0125-valid-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
@@ -354,6 +355,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0060-permutation-sequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
@@ -411,6 +413,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
@@ -460,6 +463,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0086-partition-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0206-reverse-linked-list) |

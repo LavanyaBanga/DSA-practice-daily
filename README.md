@@ -154,6 +154,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
@@ -470,6 +471,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Design

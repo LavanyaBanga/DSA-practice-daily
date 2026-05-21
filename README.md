@@ -296,6 +296,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
@@ -337,6 +338,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |

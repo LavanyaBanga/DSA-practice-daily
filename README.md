@@ -105,6 +105,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
@@ -467,6 +468,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0002-add-two-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0086-partition-list) |
@@ -621,10 +623,15 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

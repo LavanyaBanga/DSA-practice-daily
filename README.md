@@ -55,6 +55,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
@@ -107,6 +108,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Dynamic Programming
 |  |
@@ -173,6 +175,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
@@ -618,5 +621,10 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

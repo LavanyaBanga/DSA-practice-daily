@@ -1,10 +1,15 @@
-//import java.util.PriorityQueue;
 class Solution {
 
     public ListNode mergeKLists(ListNode[] lists) {
+        Comparator<ListNode> comp = new Comparator<ListNode>() {
 
+            @Override
+            public int compare(ListNode a, ListNode b) {
+                return a.val - b.val;
+            }
+        };
         PriorityQueue<ListNode> pq =
-                new PriorityQueue<>((a, b) -> a.val - b.val);
+                new PriorityQueue<>(comp);
         for (ListNode node : lists) {
             if (node != null) {
                 pq.add(node);
@@ -16,7 +21,6 @@ class Solution {
 
         while (!pq.isEmpty()) {
             ListNode curr = pq.poll();
-
             temp.next = curr;
             temp = temp.next;
             if (curr.next != null) {

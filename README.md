@@ -49,6 +49,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
@@ -450,6 +451,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0860-lemonade-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0860-lemonade-change) |

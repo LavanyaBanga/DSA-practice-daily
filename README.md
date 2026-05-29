@@ -62,6 +62,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
@@ -218,6 +219,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -434,6 +436,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
@@ -503,6 +506,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |

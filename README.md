@@ -141,6 +141,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Two Pointers
 |  |
@@ -577,12 +578,14 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0098-validate-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -601,6 +604,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -616,6 +620,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Interactive
 |  |
 | ------- |

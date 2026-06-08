@@ -95,6 +95,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
@@ -313,6 +314,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1646-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
 ## Math

@@ -35,6 +35,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
@@ -326,6 +327,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |

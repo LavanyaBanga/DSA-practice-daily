@@ -2,21 +2,21 @@ import java.util.*;
 
 public class Solution {
     public List<String> fizzBuzz(int n) {
-        List<String> answer = new ArrayList<>();
+        List<String> str = new ArrayList<>();
       for(int i=1;i<=n;i++){
         if(i%15==0){
-            answer.add("FizzBuzz");
+            str.add("FizzBuzz");
         }
         else if(i%3==0){
-            answer.add("Fizz");
+            str.add("Fizz");
         }
         else if(i%5==0){
-            answer.add("Buzz");
+            str.add("Buzz");
         }
         else{
-            answer.add(String.valueOf(i));
+            str.add(String.valueOf(i));
         }
       }
-        return answer;
+        return str;
     }
 }

@@ -87,6 +87,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1480-running-sum-of-1d-array) |
@@ -181,6 +182,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -204,6 +206,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -235,6 +238,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
@@ -315,6 +319,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0907-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1646-kth-missing-positive-number) |

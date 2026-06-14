@@ -89,6 +89,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1646-kth-missing-positive-number) |
@@ -289,6 +290,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search

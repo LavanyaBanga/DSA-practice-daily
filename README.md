@@ -437,6 +437,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |

@@ -65,6 +65,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
@@ -145,6 +146,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
@@ -597,6 +599,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 ## Memoization
 |  |
 | ------- |

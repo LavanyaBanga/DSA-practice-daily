@@ -61,6 +61,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
@@ -235,6 +236,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0290-word-pattern) |
@@ -584,6 +586,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |

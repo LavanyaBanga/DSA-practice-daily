@@ -374,6 +374,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -460,6 +461,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |

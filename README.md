@@ -50,6 +50,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0135-candy) |
@@ -140,6 +141,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0072-edit-distance](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |

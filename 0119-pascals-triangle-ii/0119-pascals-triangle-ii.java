@@ -1,13 +1,13 @@
 public class Solution {
-    public List<Integer> getRow(int rowIndex) {
-        List<Integer> res = new ArrayList<>();
-        res.add(1);
-        long prev = 1;
-        for (int k = 1; k <= rowIndex; k++) {
-            long next_val = prev * (rowIndex - k + 1) / k;
-            res.add((int) next_val);
-            prev = next_val;
-        }
-        return res;
+    public List<Integer> getRow(int k) {
+        Integer[] arr = new Integer[k + 1];
+        Arrays.fill(arr, 0);
+        arr[0] = 1;
+        
+        for (int i = 1; i <= k; i++) 
+            for (int j = i; j > 0; j--) 
+                arr[j] = arr[j] + arr[j - 1];
+        
+        return Arrays.asList(arr);
     }
 }

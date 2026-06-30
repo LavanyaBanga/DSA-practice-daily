@@ -365,6 +365,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
@@ -456,6 +457,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0205-isomorphic-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
@@ -618,6 +620,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 ## Memoization
 |  |

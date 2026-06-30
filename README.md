@@ -119,6 +119,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -260,6 +261,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -272,6 +274,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |

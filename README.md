@@ -108,6 +108,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1920-build-array-from-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1920-build-array-from-permutation) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
@@ -282,6 +283,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [1518-water-bottles](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1518-water-bottles) |
+| [1920-build-array-from-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1920-build-array-from-permutation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |

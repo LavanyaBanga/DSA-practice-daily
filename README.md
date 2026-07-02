@@ -89,6 +89,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -220,6 +221,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -734,6 +736,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
+| [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
 ## Number Theory
 |  |
 | ------- |

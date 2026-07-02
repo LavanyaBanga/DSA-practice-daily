@@ -129,6 +129,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,6 +180,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
@@ -204,6 +206,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0056-merge-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
@@ -550,6 +553,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0206-reverse-linked-list) |
@@ -725,6 +729,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
 ## Counting Sort
 |  |
 | ------- |

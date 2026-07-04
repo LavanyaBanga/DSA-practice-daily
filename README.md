@@ -93,6 +93,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0875-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
+| [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -173,6 +174,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
@@ -333,6 +335,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1672-richest-customer-wealth](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |

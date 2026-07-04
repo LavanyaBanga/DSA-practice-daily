@@ -62,6 +62,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
@@ -385,6 +386,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0066-plus-one](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
@@ -522,6 +524,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |

@@ -60,6 +60,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0135-candy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
@@ -256,6 +257,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
@@ -379,6 +381,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
+| [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
@@ -616,6 +619,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 ## Brainteaser

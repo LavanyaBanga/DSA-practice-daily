@@ -686,6 +686,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
@@ -715,6 +716,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0450-delete-node-in-a-bst) |
@@ -734,6 +736,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0124-binary-tree-maximum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
@@ -753,6 +756,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0104-maximum-depth-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 ## Combinatorics

@@ -451,6 +451,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0014-longest-common-prefix) |

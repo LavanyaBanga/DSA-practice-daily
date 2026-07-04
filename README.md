@@ -85,6 +85,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
@@ -651,6 +652,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |

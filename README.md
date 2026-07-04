@@ -30,6 +30,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0040-combination-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0054-spiral-matrix) |
@@ -142,6 +143,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
@@ -523,6 +525,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0134-gas-station) |

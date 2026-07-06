@@ -519,6 +519,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -552,6 +553,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy

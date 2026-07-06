@@ -85,6 +85,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -248,6 +249,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0941-sort-array-by-parity) |
@@ -584,6 +586,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [0860-lemonade-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0860-lemonade-change) |
@@ -820,6 +823,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 ## Quickselect

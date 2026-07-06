@@ -77,6 +77,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
@@ -328,6 +329,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
@@ -353,6 +355,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1672-richest-customer-wealth](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1672-richest-customer-wealth) |

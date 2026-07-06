@@ -71,6 +71,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
@@ -175,6 +176,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
@@ -349,6 +351,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0074-search-a-2d-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1672-richest-customer-wealth](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1672-richest-customer-wealth) |

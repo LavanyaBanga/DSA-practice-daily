@@ -111,6 +111,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1168-duplicate-zeros) |
 | [1288-remove-covered-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -261,6 +262,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -305,6 +307,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
+| [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -849,6 +852,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |
 ## Number Theory
 |  |
 | ------- |

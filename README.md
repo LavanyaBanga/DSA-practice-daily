@@ -140,6 +140,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
@@ -267,6 +268,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
+| [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 ## Hash Table
 |  |
@@ -310,6 +312,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
@@ -550,6 +553,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
+| [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 ## Stack

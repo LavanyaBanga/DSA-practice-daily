@@ -443,6 +443,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
@@ -805,6 +806,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -826,6 +828,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |

@@ -813,6 +813,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive
 |  |
 | ------- |
@@ -832,6 +833,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
+| [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Combinatorics
 |  |
 | ------- |
@@ -883,4 +885,12 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->

@@ -82,6 +82,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
@@ -225,6 +226,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
@@ -255,6 +257,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
@@ -304,6 +307,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
@@ -403,6 +407,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0792-binary-search) |

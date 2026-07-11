@@ -79,6 +79,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
@@ -222,6 +223,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0151-reverse-words-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
@@ -400,6 +402,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0792-binary-search) |
@@ -485,6 +488,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0201-bitwise-and-of-numbers-range](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |

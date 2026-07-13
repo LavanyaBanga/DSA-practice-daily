@@ -298,6 +298,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0049-group-anagrams](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0138-copy-list-with-random-pointer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
@@ -656,6 +657,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0061-rotate-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0143-reorder-list) |

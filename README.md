@@ -917,6 +917,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1291-sequential-digits) |
 ## Union-Find
 |  |
 | ------- |

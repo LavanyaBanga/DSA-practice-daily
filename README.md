@@ -98,6 +98,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0605-can-place-flowers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
+| [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
@@ -321,6 +322,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
+| [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1319-unique-number-of-occurrences) |
@@ -669,6 +671,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -679,6 +682,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
+| [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
@@ -919,4 +923,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->

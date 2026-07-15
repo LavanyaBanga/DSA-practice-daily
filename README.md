@@ -99,6 +99,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0605-can-place-flowers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
@@ -324,6 +325,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
+| [0697-degree-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1122-relative-sort-array) |

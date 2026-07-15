@@ -488,6 +488,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -902,6 +903,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Randomized
 |  |
 | ------- |

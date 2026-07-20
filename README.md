@@ -943,5 +943,6 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

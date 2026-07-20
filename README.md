@@ -939,4 +939,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

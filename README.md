@@ -491,6 +491,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1952-three-divisors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1952-three-divisors) |
 | [1965-sum-of-digits-in-base-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
@@ -915,6 +916,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1952-three-divisors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Randomized
@@ -934,6 +936,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1952-three-divisors) |
 ## Union-Find
 |  |
 | ------- |

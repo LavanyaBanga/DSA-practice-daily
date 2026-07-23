@@ -202,6 +202,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -477,6 +478,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0780-reaching-points](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0780-reaching-points) |
 | [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -727,10 +729,12 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |

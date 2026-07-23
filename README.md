@@ -489,6 +489,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1518-water-bottles](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1518-water-bottles) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1965-sum-of-digits-in-base-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1965-sum-of-digits-in-base-k) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |

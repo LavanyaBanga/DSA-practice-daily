@@ -136,6 +136,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1672-richest-customer-wealth) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-find-the-highest-altitude](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
@@ -408,6 +409,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search

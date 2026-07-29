@@ -146,6 +146,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1920-build-array-from-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1920-build-array-from-permutation) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2104-sum-of-subarray-ranges) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -340,6 +341,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1832-check-if-the-sentence-is-pangram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1848-sum-of-unique-elements](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |

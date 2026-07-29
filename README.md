@@ -614,6 +614,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
@@ -698,6 +699,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0146-lru-cache](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
@@ -973,4 +975,8 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1683-invalid-tweets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

@@ -464,6 +464,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0263-ugly-number) |
 | [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
@@ -576,6 +577,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0179-largest-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0290-word-pattern) |
@@ -621,6 +623,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |

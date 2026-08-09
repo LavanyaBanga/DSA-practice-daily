@@ -997,4 +997,12 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

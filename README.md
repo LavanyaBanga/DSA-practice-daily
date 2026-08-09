@@ -81,6 +81,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
@@ -237,6 +238,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0165-compare-version-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |

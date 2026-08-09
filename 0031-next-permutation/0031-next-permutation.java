@@ -14,7 +14,6 @@ class Solution {
             while (nums[j] <= nums[i]) {
                 j--;
             }
-
             int temp = nums[i];
             nums[i] = nums[j];
             nums[j] = temp;

@@ -18,6 +18,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0031-next-permutation) |
@@ -218,6 +219,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -651,6 +653,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |

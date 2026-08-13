@@ -181,6 +181,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
@@ -572,6 +573,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0020-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0049-group-anagrams) |
@@ -625,6 +627,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0084-largest-rectangle-in-histogram) |
@@ -1010,4 +1013,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->

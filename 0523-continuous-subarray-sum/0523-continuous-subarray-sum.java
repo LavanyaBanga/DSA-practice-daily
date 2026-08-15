@@ -7,25 +7,25 @@ class Solution {
 
         map.put(0, -1);
 
-        int prefixSum = 0;
+        int prefix = 0;
 
         for (int i = 0; i < nums.length; i++) {
 
-            prefixSum += nums[i];
+            prefix+= nums[i];
 
-            int remainder = prefixSum % k;
+            int rem = prefix % k;
 
-            if (map.containsKey(remainder)) {
+            if (map.containsKey(rem)) {
 
-                int previousIndex = map.get(remainder);
+                int previous = map.get(rem);
 
-                if (i - previousIndex >= 2) {
+                if (i - previous >= 2) {
                     return true;
                 }
 
             } else {
 
-                map.put(remainder, i);
+                map.put(rem, i);
             }
         }
 

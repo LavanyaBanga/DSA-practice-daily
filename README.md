@@ -97,6 +97,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0575-distribute-candies) |
@@ -338,6 +339,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0442-find-all-duplicates-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
@@ -418,6 +420,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |
@@ -492,6 +495,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0441-arranging-coins](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0780-reaching-points](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0780-reaching-points) |
@@ -1017,4 +1021,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

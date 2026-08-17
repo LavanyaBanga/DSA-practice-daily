@@ -509,6 +509,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0780-reaching-points](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0780-reaching-points) |
+| [0836-rectangle-overlap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0836-rectangle-overlap) |
 | [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
 | [1006-clumsy-factorial](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
@@ -773,6 +774,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0223-rectangle-area) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0836-rectangle-overlap) |
 ## Brainteaser
 |  |
 | ------- |

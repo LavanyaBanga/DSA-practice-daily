@@ -75,6 +75,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
@@ -420,6 +421,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0560-subarray-sum-equals-k) |
@@ -440,6 +442,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
@@ -776,6 +779,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |

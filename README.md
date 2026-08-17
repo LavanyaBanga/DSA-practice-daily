@@ -392,6 +392,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0867-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1920-build-array-from-permutation) |
@@ -509,6 +510,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0780-reaching-points](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0780-reaching-points) |
 | [0878-nth-magical-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0878-nth-magical-number) |
+| [1006-clumsy-factorial](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
@@ -663,6 +665,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
+| [1006-clumsy-factorial](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1006-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

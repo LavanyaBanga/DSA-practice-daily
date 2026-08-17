@@ -435,6 +435,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1480-running-sum-of-1d-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2485-find-the-pivot-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2485-find-the-pivot-integer) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Binary Search
 |  |
@@ -535,6 +536,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2180-count-integers-with-even-digit-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
+| [2485-find-the-pivot-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2485-find-the-pivot-integer) |
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation

@@ -96,6 +96,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0442-find-all-duplicates-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
@@ -212,6 +213,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0343-integer-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -499,6 +501,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
@@ -568,6 +571,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0326-power-of-three](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
 ## String
@@ -776,6 +780,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
@@ -1032,4 +1037,12 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->

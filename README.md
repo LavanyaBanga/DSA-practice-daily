@@ -164,6 +164,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
@@ -269,6 +270,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 ## Sorting
 |  |
 | ------- |
@@ -309,6 +311,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
+| [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 ## Hash Table
 |  |
@@ -363,6 +366,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
+| [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |

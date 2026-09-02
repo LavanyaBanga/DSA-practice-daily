@@ -1064,4 +1064,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

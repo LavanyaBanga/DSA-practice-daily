@@ -1,31 +1,30 @@
+
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if (head == null || head.next == null || left == right) return head;
-        
-        Stack<Integer> st = new Stack<>();
-        ListNode temp = head;
-        int pos = 0;
-        
-      
-        while (temp != null) {
-            pos++;
-            if (pos >= left && pos <= right) {
-                st.push(temp.val);
-            }
-            temp = temp.next;
+        ArrayList<Integer> list = new ArrayList<>();
+        ListNode curr = head;
+        while (curr != null) {
+            list.add(curr.val);
+            curr = curr.next;
         }
-        
-       
-        temp = head;
-        pos = 0;
-        while (temp != null) {
-            pos++;
-            if (pos >= left && pos <= right) {
-                temp.val = st.pop();
-            }
-            temp = temp.next;
+        int i = left - 1;
+        int j = right - 1;
+        while (i < j) {
+            int temp = list.get(i);
+            list.set(i, list.get(j));
+            list.set(j, temp);
+
+            i++;
+            j--;
         }
-        
+        curr = head;
+        int index = 0;
+
+        while (curr != null) {
+            curr.val = list.get(index++);
+            curr = curr.next;
+        }
+
         return head;
     }
 }

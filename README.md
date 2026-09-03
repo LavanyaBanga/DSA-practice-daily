@@ -172,6 +172,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -546,6 +547,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2485-find-the-pivot-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2485-find-the-pivot-integer) |
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
 |  |
 | ------- |

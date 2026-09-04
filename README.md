@@ -350,6 +350,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
@@ -633,6 +634,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0409-longest-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0520-detect-capital) |
@@ -810,6 +812,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0003-longest-substring-without-repeating-characters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1046-max-consecutive-ones-iii) |

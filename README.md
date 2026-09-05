@@ -174,6 +174,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -449,6 +450,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2485-find-the-pivot-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2485-find-the-pivot-integer) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3903-smallest-stable-index-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |

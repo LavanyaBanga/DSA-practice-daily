@@ -201,6 +201,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0064-minimum-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0120-triangle) |
@@ -618,6 +619,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0071-simplify-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |

@@ -222,6 +222,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
+| [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1025-divisor-game) |
@@ -647,6 +648,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0680-valid-palindrome-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |

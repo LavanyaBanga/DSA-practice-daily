@@ -883,6 +883,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -922,6 +923,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0783-search-in-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0783-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -948,6 +950,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
 | [0951-flip-equivalent-binary-trees](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2685-count-the-number-of-complete-components) |
 ## Interactive
 |  |

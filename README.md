@@ -222,6 +222,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0509-fibonacci-number) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -528,6 +529,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0523-continuous-subarray-sum) |
 | [0593-valid-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0593-valid-square) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |
@@ -602,6 +604,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0342-power-of-four](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2050-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3483-unique-3-digit-even-numbers) |
@@ -860,6 +863,7 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0139-word-break](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1013-fibonacci-number) |
 ## Tree
 |  |

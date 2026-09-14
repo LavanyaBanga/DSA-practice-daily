@@ -504,6 +504,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0062-unique-paths](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0172-factorial-trailing-zeroes) |
@@ -568,6 +569,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0029-divide-two-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0190-reverse-bits) |
@@ -849,6 +851,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0077-combinations](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |

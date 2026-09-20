@@ -428,6 +428,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -689,6 +690,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2470-removing-stars-from-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3498-reverse-degree-of-a-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |

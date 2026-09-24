@@ -94,6 +94,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0313-super-ugly-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0435-non-overlapping-intervals) |
@@ -1024,6 +1025,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0023-merge-k-sorted-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |

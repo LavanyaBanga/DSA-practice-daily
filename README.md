@@ -72,6 +72,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0198-house-robber) |
@@ -189,6 +190,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0053-maximum-subarray](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
@@ -304,6 +306,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0075-sort-colors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
@@ -360,6 +363,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0146-lru-cache](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0219-contains-duplicate-ii) |
@@ -403,6 +407,7 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
@@ -1145,4 +1150,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0300-longest-increasing-subsequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

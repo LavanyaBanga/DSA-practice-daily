@@ -4,7 +4,7 @@ class Solution {
      int votes=0;
      for(int num:nums){
         if(votes==0)majority=num;
-        if(num==majority)votes++;
+        if(majority==num)votes++;
         else{
             votes--;
         }

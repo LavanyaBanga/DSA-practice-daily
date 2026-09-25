@@ -7,7 +7,7 @@ class Solution {
      for(int right=0;right<s.length();right++){
         char ch=s.charAt(right);
         freq[ch]++;
-        if(freq[ch]>1){
+        while(freq[ch]>1){
             freq[s.charAt(left)]--;
             left++;
 

@@ -121,6 +121,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0875-koko-eating-bananas) |
@@ -460,6 +461,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |

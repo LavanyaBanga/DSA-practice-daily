@@ -168,6 +168,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2215-find-the-difference-of-two-arrays](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -246,6 +247,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1289-minimum-falling-path-sum-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Two Pointers
 |  |
@@ -468,6 +470,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1672-richest-customer-wealth](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1134,6 +1137,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Pigeonhole Principle
 |  |
 | ------- |

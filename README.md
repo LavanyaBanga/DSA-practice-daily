@@ -181,6 +181,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -595,6 +596,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2288-count-operations-to-obtain-zero](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2288-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2485-find-the-pivot-integer) |
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3871-count-commas-in-range-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |

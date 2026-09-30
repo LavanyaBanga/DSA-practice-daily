@@ -1139,6 +1139,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Pigeonhole Principle
 |  |

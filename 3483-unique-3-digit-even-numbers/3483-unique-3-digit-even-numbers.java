@@ -1,22 +1,16 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        Set<Integer> numbers = new HashSet<>();
-        for (int first = 0; first < digits.length; first++) {
-            if (digits[first] == 0)
-                continue;
-            for (int second = 0; second < digits.length; second++) {
-                if (second == first)
-                    continue;
-                for (int third = 0; third < digits.length; third++) {
-                    if (third == first || third == second)
-                        continue;
-                    if (digits[third] % 2 != 0)
-                        continue;
-                    int number = digits[first] * 100 + digits[second] * 10 + digits[third];
-                    numbers.add(number);
+        HashSet<Integer> set = new HashSet<>();
+        for(int i=0 ; i<digits.length ; i++){
+            if(digits[i]==0) continue;
+            for(int j=0 ; j<digits.length ; j++){
+                if(i==j) continue;
+                for(int k=0 ; k<digits.length ; k++){
+                    if(k==i || k==j || digits[k]%2!=0) continue;
+                    set.add(digits[i]*100 + digits[j]*10 + digits[k]);
                 }
             }
         }
-        return numbers.size();
+        return set.size();
     }
 }

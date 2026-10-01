@@ -184,6 +184,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3904-smallest-stable-index-ii) |
@@ -786,6 +787,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
+| [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Trie
 |  |
 | ------- |

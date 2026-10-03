@@ -88,6 +88,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0268-missing-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0300-longest-increasing-subsequence) |
@@ -832,6 +833,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0146-lru-cache](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0225-implement-stack-using-queues) |
+| [0284-peeking-iterator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0380-insert-delete-getrandom-o1) |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
@@ -1172,4 +1174,8 @@ This repository contains all my DSA problem solutions from different platforms:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0169-majority-element) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->

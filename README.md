@@ -103,6 +103,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0442-find-all-duplicates-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
@@ -466,6 +467,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0085-maximal-rectangle](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0289-game-of-life) |
+| [0463-island-perimeter](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0867-transpose-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
@@ -1005,6 +1007,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
+| [0463-island-perimeter](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -1031,6 +1034,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
+| [0463-island-perimeter](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0672-bulb-switcher-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0672-bulb-switcher-ii) |

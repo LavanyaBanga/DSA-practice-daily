@@ -241,6 +241,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0931-minimum-falling-path-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -701,6 +702,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-reverse-only-letters) |
@@ -746,6 +748,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |
@@ -776,6 +779,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
+| [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
@@ -1147,6 +1151,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | ------- |
 | [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

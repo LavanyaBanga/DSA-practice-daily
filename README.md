@@ -705,6 +705,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-reverse-only-letters) |
 | [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -751,6 +752,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
@@ -1152,6 +1154,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0022-generate-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

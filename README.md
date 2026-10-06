@@ -707,6 +707,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0796-rotate-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
@@ -754,6 +755,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0739-daily-temperatures](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0937-online-stock-span](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0943-sum-of-subarray-minimums) |
 | [1006-clumsy-factorial](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1006-clumsy-factorial) |
@@ -785,6 +787,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0680-valid-palindrome-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0860-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0917-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1448-maximum-69-number) |
@@ -1155,6 +1158,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0032-longest-valid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

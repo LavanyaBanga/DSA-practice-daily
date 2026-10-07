@@ -689,6 +689,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0242-valid-anagram](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0389-find-the-difference) |
@@ -920,6 +921,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0090-subsets-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0494-target-sum) |
 ## Memoization
 |  |
@@ -1041,6 +1043,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0127-word-ladder](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0463-island-perimeter) |

@@ -716,6 +716,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1143-longest-common-subsequence](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -763,6 +764,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1078-remove-outermost-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2104-sum-of-subarray-ranges) |
@@ -792,6 +794,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0985-bag-of-tokens](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1033-broken-calculator) |
 | [1448-maximum-69-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1448-maximum-69-number) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
@@ -1163,6 +1166,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0856-score-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Pigeonhole Principle

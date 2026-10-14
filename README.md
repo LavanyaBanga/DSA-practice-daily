@@ -603,6 +603,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3100-water-bottles-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3100-water-bottles-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -803,6 +804,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 ## Trie
 |  |

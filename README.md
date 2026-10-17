@@ -179,6 +179,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
@@ -411,6 +412,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2427-first-letter-to-appear-twice](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2427-first-letter-to-appear-twice) |
 | [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3046-split-the-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3046-split-the-array) |
@@ -1208,9 +1210,11 @@ This repository contains all my DSA problem solutions from different platforms:
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->

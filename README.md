@@ -191,6 +191,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3854-minimum-operations-to-make-array-parity-alternating](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3854-minimum-operations-to-make-array-parity-alternating) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
@@ -354,6 +355,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
+| [3886-sum-of-sortable-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -613,6 +615,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3871-count-commas-in-range-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1124,6 +1127,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1291-sequential-digits](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1952-three-divisors) |
 | [3483-unique-3-digit-even-numbers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/3886-sum-of-sortable-integers) |
 ## Union-Find
 |  |
 | ------- |

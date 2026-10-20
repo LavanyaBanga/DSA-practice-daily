@@ -174,6 +174,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [2271-rearrange-array-elements-by-sign](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
@@ -348,6 +349,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2418-sort-the-people](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2465-number-of-distinct-averages) |
@@ -533,6 +535,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2047-find-a-peak-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2047-find-a-peak-element-ii) |
 | [2294-minimum-time-to-complete-trips](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2294-minimum-time-to-complete-trips) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -806,6 +809,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [1838-frequency-of-the-most-frequent-element](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2032-largest-odd-number-in-string) |
 | [2257-earliest-possible-day-of-full-bloom](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2257-earliest-possible-day-of-full-bloom) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2366-maximum-bags-with-full-capacity-of-rocks](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2366-maximum-bags-with-full-capacity-of-rocks) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -1077,6 +1081,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0451-sort-characters-by-frequency](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0621-task-scheduler) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2611-mice-and-cheese](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/2611-mice-and-cheese) |
 ## Quickselect
 |  |

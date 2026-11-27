@@ -574,6 +574,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0412-fizz-buzz](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0486-predict-the-winner) |
 | [0504-base-7](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0507-perfect-number) |
@@ -763,6 +764,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0227-basic-calculator-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0678-valid-parenthesis-string) |
@@ -854,6 +856,7 @@ This repository contains all my DSA problem solutions from different platforms:
 | [0234-palindrome-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0445-add-two-numbers-ii) |
 | [0706-design-hashmap](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/LavanyaBanga/DSA-practice-daily/tree/master/0908-middle-of-the-linked-list) |
